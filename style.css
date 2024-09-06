@@ -80,26 +80,10 @@ textarea:focus {
     border-radius: 5px;
 }
 
-#leaderboard {
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 10px;
-    margin-top: 20px;
-}
 
-#leaderboardList {
-    list-style-type: none;
-    padding: 0;
-}
 
-#leaderboardList li {
-    margin: 5px 0;
-    padding: 5px;
-    background: #ff6f61;
-    color: #fff;
-    border-radius: 5px;
-}
+
+
 
 /* Theme Styles */
 .theme-light {
